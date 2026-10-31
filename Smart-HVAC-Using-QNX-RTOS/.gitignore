@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.log
+*.tmp
+qnx_ipc/build/
+*.o
+*.map
+*.sym
+.DS_Store
+Thumbs.db
+.vscode/

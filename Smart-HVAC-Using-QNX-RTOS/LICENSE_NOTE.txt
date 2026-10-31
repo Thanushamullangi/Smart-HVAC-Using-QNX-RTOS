@@ -1,0 +1,1 @@
+Before adding an open-source license, confirm that your team owns or has permission to publish every source file and dataset. The dataset may have separate license/redistribution restrictions. If you choose MIT, add the standard MIT license text and fill in the correct copyright holder and year.
